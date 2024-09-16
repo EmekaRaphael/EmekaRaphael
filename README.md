@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EmekaRaphael, a fullstack web developer.
+- 👋 Hi, I’m Emeka Raphael, a fullstack web developer.
 - 👀 I’m interested in HTML5, Pug, CSS3, Bootstrap, JavaScript, Node.js, Express.js, APIs, SQL, MongoDB, React.js, web3 Decentralised App(DApp) on The Internet Computer (ICP).
-- 💞️ I’m looking to collaborate on any type of project related to front/back-end web developemnt
+- 💞️ I’m looking to collaborate on any type of project related to Javascript front/back-end web developemnt.
 - 📫 How to reach me ... +2349059399253 @emekaraphael13@gmail.com
 
 <!---
